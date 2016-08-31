@@ -1,7 +1,7 @@
 title: /Users/romankonz/devlog
 email: roman@konz.me
 description: >
-  this is my personal development log
+  my development log
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://example.com" # the base hostname & protocol for your site
 twitter_username: RomanKonz
